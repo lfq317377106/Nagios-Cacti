@@ -1,0 +1,5 @@
+define hostgroup{
+        hostgroup_name          windows-servers
+        alias                   win Servers
+        members                 wwhost
+        }
